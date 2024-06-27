@@ -6,7 +6,7 @@ const hau = {
   pronouns: ["he", "him"],
   school: ["depaul university"],
   language: ["html", "css", "javascript", "java", "sql", "c", "c++", "python", "scala"],
-  tools: ["react", "next.js", "node", ".net", "mysql"],
+  tools: ["react", "next.js", "node", ".net", "mysql", "django", "aws server", "tailwind"],
   certifications: ["html", "css", "javascript", "photoshop", "word", "powerpoint", "excel"]
 }
 
